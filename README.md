@@ -6,12 +6,19 @@ EDA is performed and geoplots are used to visualize the data present ( data here
 
 ## Libraries Used:
 Numpy
+
 Pandas
+
 Plotly
+
 Chart_studio
+
 sklearn
+
 matplotlib
+
 
 ## Files:
 seattle_airbnb_data.ipynb - jupyter notebook used for analysis and plotting.
+
 dataset/* - 3 .csv files containing the Seattle Airbnb dataset found on kaggle.
