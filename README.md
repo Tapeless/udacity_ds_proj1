@@ -21,4 +21,4 @@ matplotlib
 ## Files:
 seattle_airbnb_data.ipynb - jupyter notebook used for analysis and plotting.
 
-dataset/* - 3 .csv files containing the Seattle Airbnb dataset found on kaggle.
+dataset.zip - 3 .csv files containing the Seattle Airbnb dataset found on kaggle.
